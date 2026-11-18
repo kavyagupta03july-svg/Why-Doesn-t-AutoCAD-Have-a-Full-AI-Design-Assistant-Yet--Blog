@@ -1,0 +1,17 @@
+{
+  "name": "CAD Horizon — AI in AutoCAD Research Review",
+  "short_name": "CAD Horizon",
+  "description": "Why Doesn't AutoCAD Have a Full AI Design Assistant Yet? The Problems Faced by CAD Professionals and the Future of AI-Powered Design.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060B16",
+  "theme_color": "#060B16",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

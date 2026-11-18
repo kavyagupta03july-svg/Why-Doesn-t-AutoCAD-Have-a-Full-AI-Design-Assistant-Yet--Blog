@@ -1,0 +1,6 @@
+{
+  "name": "CAD Horizon — Why Doesn't AutoCAD Have a Full AI Design Assistant Yet?",
+  "description": "An in-depth technical investigation into existing AI in AutoCAD, the missing capabilities of a full generative AI CAD assistant, and practical automation workflows for engineers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
